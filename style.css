@@ -1,0 +1,31 @@
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow:none;
+}
+#videos iframe{
+    width: 100%;
+}
+.my_nav_bar{
+    position:sticky;
+    top: 0;
+    z-index: 99999;
+}
+p{
+    font-size: 20px;
+    color:teal;
+}
+a{
+    font-size:18px;
+}
+h3{
+    font-size:10px;
+}
+h6{
+    font-size:14px;
+}
